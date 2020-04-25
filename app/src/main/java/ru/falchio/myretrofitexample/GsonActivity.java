@@ -25,6 +25,7 @@ public class GsonActivity extends AppCompatActivity {
 
         Log.d(TAG, "onCreate: " + season.getTimeOfYear() + " " + season.getYear());
 
+
     }
 
     private class  Season{
